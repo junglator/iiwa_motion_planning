@@ -1,4 +1,10 @@
 # iiwa_motion_planning!
-![Picture1](https://github.com/junglator/iiwa_motion_planning/assets/46628685/10b4665d-ebfc-4cc7-9f42-9515fe36938c)
-![Picture2](https://github.com/junglator/iiwa_motion_planning/assets/46628685/509ee173-8fec-4c81-bfb9-63f4dadd789d)
-![Picture3](https://github.com/junglator/iiwa_motion_planning/assets/46628685/8abd1d22-f347-4871-9f45-5687c2f7b4d4)
+
+RRT
+![RRT](https://github.com/junglator/iiwa_motion_planning/assets/46628685/a13e75ab-e825-433e-a222-1f17d59b4c42)
+
+RRTStar
+![RRTStar](https://github.com/junglator/iiwa_motion_planning/assets/46628685/926e05b2-b0b1-4f88-8832-0d388bf886c9)
+
+RRT Wrapped
+![RRTWrapped](https://github.com/junglator/iiwa_motion_planning/assets/46628685/2b2af872-382c-4350-b2d2-d3bd46a010b9)
