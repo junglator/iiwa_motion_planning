@@ -1,6 +1,6 @@
 ---
 
-# Motion Planning for Mobile Manipulator
+# Motion Planning for arm Manipulator
 
 This repository implements a motion planning pipeline for a mobile manipulator navigating a dynamic factory floor. The project focuses on decoupled motion planning for the robot's base and arm, employing RRT-based algorithms for efficient pathfinding in complex environments.
 
