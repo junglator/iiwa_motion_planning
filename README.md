@@ -52,7 +52,7 @@ Effective motion planning is vital with the rise of autonomous robots in industr
 
 1. Run the simulation:
    ```bash
-   python run_simulation.py
+   python simulation.py
    ```
 2. Adjust configurations (e.g., obstacle layout, robot parameters) in the `config/` directory.
 
